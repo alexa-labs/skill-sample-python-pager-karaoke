@@ -2,7 +2,7 @@
 
 One of the most important motivators for using Alexa Presentation Language (APL) is the ability to distinguish between devices.
 
-This skill demonstrates 3 features of APL: the [Pager Component](https://developer.amazon.com/docs/alexa-presentation-language/apl-pager.html), [SpeakItem Command](https://developer.amazon.com/docs/alexa-presentation-language/apl-commands-components.html), and accessing [device characteristics](https://developer.amazon.com/docs/alexa-presentation-language/apl-viewport-characteristics.html) in the skill code.
+This skill demonstrates 3 features of APL: the [Pager Component](https://developer.amazon.com/docs/alexa-presentation-language/apl-pager.html), [SpeakItem Command](https://developer.amazon.com/docs/alexa-presentation-language/apl-standard-commands.html#speakitem-command), and accessing [device characteristics](https://developer.amazon.com/docs/alexa-presentation-language/apl-viewport-characteristics.html) in the skill code.
 
 In this skill, a user asks Alexa “Show me pager”, and they will see a template that demonstrates the [Pager Component](https://developer.amazon.com/docs/alexa-presentation-language/apl-pager.html) using the AutoPage command.
 
