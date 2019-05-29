@@ -175,6 +175,8 @@ class DeviceIntentHandler(AbstractRequestHandler):
             speech += 'hub landscape large'
         elif viewport.get_viewport_profile == viewport.ViewportProfile.HUB_LANDSCAPE_MEDIUM:
             speech += 'hub landscape medium'
+        elif viewport.get_viewport_profile == viewport.ViewportProfile.HUB_LANDSCAPE_SMALL:
+            speech += 'hub landscape small'
         elif viewport.get_viewport_profile == viewport.ViewportProfile.HUB_ROUND_SMALL:
             speech += 'hub round small'
         elif viewport.get_viewport_profile == viewport.ViewportProfile.TV_LANDSCAPE_XLARGE:
